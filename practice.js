@@ -7,7 +7,8 @@
 //Create an object called me. Give it a key of name with the value being your name, and another key of age with the value being your age. Then alert your name using dot notation.
 
   //Code here
-
+var me = {name:"Sukanya", age:33}
+alert(me.name)
 
 
 
@@ -21,7 +22,7 @@
 //Make a 'favoriteThings' object that contains the following keys: band, food, person, book, movie, holiday. Have the values to those keys be your favorite thing in that category.
 
   //Code here
-
+var favoriteThings = {band:"Gotye", food:"burrito", person: "Mirzakhani", book: "Atlas Shrugged", movie:"Armageddon", holiday:"July 4"};
 
 
 
@@ -32,6 +33,8 @@
 
   //Code here
 
+  favoriteThings.car="Honda";
+  favoriteThings.brand="Unilever";
 
 
 
@@ -39,7 +42,8 @@
 //Now change the value of the food key in your favoriteThings object to be 'Chicken Nuggets' and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 
   //Code here
-
+favoriteThings.food="Chicken Nuggets";
+favoriteThings.book="Harry Potter";
 
 
 
@@ -59,7 +63,8 @@ that is named color, with the value being the color of your backpack.
 */
 
   //Code here
-
+  // var backPack = {};
+  // variable item = 
 
 
 
